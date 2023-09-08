@@ -60,12 +60,12 @@ In this role, I conducted extensive testing of software products, including both
 
 ## Certificates
 
-- Microsoft Excel: Beginner to Advanced for 2023 - [Certificate Link](Certificate link)
-- Python Programming for Everybody - [Certificate Link](Certificate link)
-- SQL Intermediate - [Certificate Link](Certificate link)
-- Selenium with Python - [Certificate Link](Certificate link)
-- Power BI Job Simulation - [Certificate Link](Certificate link)
-- Basics of Scrum - [Certificate Link](Certificate link)
+- Microsoft Excel: Beginner to Advanced for 2023
+- Python Programming for Everybody
+- SQL Intermediate
+- Selenium with Python
+- Power BI Job Simulation
+- Basics of Scrum
 
 ## Education
 
